@@ -6,6 +6,21 @@ Registry
 A simple registry.
 
 
+Registry is part of the [universe framework](https://github.com/karayabin/universe-snapshot).
+
+
+Install
+=============
+
+
+Using the [uni tool](https://github.com/lingtalfi/universe-naive-importer)
+```bash
+uni import Registry
+```
+
+
+
+
 
 A registry is a container for variables.
 It has simple access and setter methods:
