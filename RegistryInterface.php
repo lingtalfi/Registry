@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Registry;
+namespace Ling\Registry;
 
 
 /**
